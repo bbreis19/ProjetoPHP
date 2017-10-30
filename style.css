@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+
+*{
+    
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height:100vh;
+    background-color: black;
+
+}
+
+#particles-js{
+    height: 100%;
+    z-index: -1;
+}
+
+p{
+    font-size: 60px;
+}
+.text{
+    z-index: 100;
+    font-size: 60px;
+    background-color: blue;
+    margin-top:80px;
+    position:absolute;
+}
+.navbar{
+    position: absolute;
+}
+.mars{
+    position: absolute;
+    margin-top: 50%;
+    width: 15%;
+    bottom: 20%;
+    left: 55%;
+}
+.galaxy{
+    font-size: 10em;
+    position: absolute;
+    left:35%;
+    top: 30%;
+    color: white;
+    font-family: 'Tangerine', cursive;
+
+
+}
